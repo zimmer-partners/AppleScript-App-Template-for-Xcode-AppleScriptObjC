@@ -6,14 +6,14 @@ As a result, it may be difficult for developers to access the AppleScript App te
 
 ## Installation instructions
 
-1. Right-click the Xcode app in Finder.
-2. Choose `Show package content` from the context menu.
-3. Navigate to `Contents` > `Developer` > `Library` > `Xcode` > `Templates` > `Project\ Templates` > `macOS` > `Other`.
-	- If one of the folders is missing, create it.
-4. Copy or move the template to this folder.
+1. Locate the Xcode app in Finder and right-click on it.
+2. Select `Show package content` from the context menu.
+3. Navigate to `Contents` > `Developer` > `Library` > `Xcode` > `Templates` > `Project` > `Templates` > `macOS` > `Other`.
+	- If any of these folders are missing, create them.
+4. Copy or move the downloaded template to this folder.
 5. Restart Xcode.
-6. To validate the installation proceed as follows in Xcode:
-	1. Choose `File` > `New` > `New project...`.
-	2. Check if `Apple Script App` is available in the `Other` section under the `macOS` tab.
+6. To verify that the template has been successfully installed, follow these steps in Xcode:
+	1. Click `Xode` > `File` > `New` > `New project...`.
+	2. Look for the `Other` section under the `macOS` tab and check if `Apple Script App` is available.
 
 Have fun.
