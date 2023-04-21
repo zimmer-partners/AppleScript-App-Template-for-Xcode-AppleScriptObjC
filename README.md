@@ -7,7 +7,7 @@ As a result, it may be difficult for developers to access the AppleScript App te
 ## Installation instructions
 
 1. Right-click the Xcode app in Finder.
-2. Choose "Show package content" from the context menu.
+2. Choose `Show package content` from the context menu.
 3. Navigate to `Applications` > `Xcode.app` > `Contents` > `Developer` > `Library` > `Xcode` > `Templates` > `Project\ Templates` > `macOS` > `Other`.
 	- If one of the folders is missing, create it.
 4. Copy or move the template to this folder.
