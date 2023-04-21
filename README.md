@@ -1,8 +1,8 @@
 # AppleScript App Template for Xcode (AppleScriptObjC)
 
-Unfortunately Apple seams to push developers to drop writing AppleScript apps (AppleScriptObjC) by dropping the corresponding project template from latest Xcode releases (14.3+). 
+Apple appears to be discouraging developers from writing AppleScript (AppleScriptObjC) apps by removing the corresponding project template from recent Xcode releases (14.3+).
 
-For anyone that is missing an older Xcode installation to pull the AppleScript App template from, I published it here.
+As a result, it may be difficult for developers to access the AppleScript App template, which was available in older versions of Xcode. However, to assist those who are missing this template, I have published it here for download.
 
 ## Installation instructions
 
